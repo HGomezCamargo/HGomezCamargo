@@ -1,16 +1,24 @@
-### Hi there 👋
+Hola!! soy Hernán 🧑🏽‍💻🎷
 
-<!--
-**HGomezCamargo/HGomezCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un programador fullstack Tengo conocimientos principalmente de Javascript, pero también tengo conocimientos basicos en Python.
 
-Here are some ideas to get you started:
+¿Qué estoy haciendo actualmente?
+Actualmente me concentro en realizar diversos proyectos para mejorar tanto como mis habilidades tech como mis habilidades blandas mediante el trabajo en equipo. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¿Qué tecnologías uso?
+Las principales tecnologías que utilizo son:
+
+-Javascript
+-React.js
+-Node.js
+-Express.js
+-PostgreSQL
+-Sequelize
+-mongoose
+-mongoDB
+-Git
+-HTML
+
+Sobre mi 🎼😎🎷:
+
+Soy saxofonista y un apasionado de la musica, me crie en un entorno en el cual la musica siempre formo parte 🎵🎶, actualmente me encuentro perfeccionando mi nivel de ingles para rendir el examen IELTS.

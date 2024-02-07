@@ -22,3 +22,6 @@ Las principales tecnologías que utilizo son:
 Sobre mi 🎼😎🎷:
 
 Soy saxofonista y un apasionado de la musica, me crie en un entorno en el cual la musica siempre formo parte 🎵🎶, actualmente me encuentro perfeccionando mi nivel de ingles para rendir el examen IELTS.
+
+Contactame 👇🏼
+email: hernangc23@gmail.com
